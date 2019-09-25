@@ -3,6 +3,8 @@ version: git
 summary: Extract files from the RPA archive format.
 description: |
   unrpa is a CLI tool to extract files from the RPA archive format (from the Ren'Py Visual Novel Engine).
+license: GPL-3.0
+
 base: core18
 confinement: strict
 
